@@ -97,5 +97,5 @@ function printQuestionMarks(num) {
     }
   };
   
-  // Export the orm object for the model.
+  // Export the orm object for the model
   module.exports = orm;
